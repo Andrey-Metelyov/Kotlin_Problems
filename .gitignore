@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/Topics/String templates/Repetitions and templates/out/
+/Topics/String templates/Repetitions and templates/out/production/classes/
