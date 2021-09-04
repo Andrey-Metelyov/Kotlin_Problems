@@ -10,6 +10,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/File hierarchies" />
+            <option value="$PROJECT_DIR$/Topics/For loop and lists/Theory" />
+            <option value="$PROJECT_DIR$/Topics/For loop and lists/Triples" />
             <option value="$PROJECT_DIR$/Topics/String templates/Arithmetic expression" />
             <option value="$PROJECT_DIR$/Topics/String templates/Date and time formatting" />
             <option value="$PROJECT_DIR$/Topics/String templates/Print two numbers on the same line" />
